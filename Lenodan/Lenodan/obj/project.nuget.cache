@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "ujFjeVV4MksAkRzroxeZEYnOWLJrGwkO/ZahEQFaHL/fGKCbRSfuYxrOYUU+RN+wRovABLixdVgxN0aPpcFoUA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\NTULI\\Documents\\Mthokozisi\\Projects\\Lenodan\\LenodanAPI\\Lenodan\\Lenodan\\Lenodan.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\NTULI\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\NTULI\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\NTULI\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\NTULI\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\NTULI\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\NTULI\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
